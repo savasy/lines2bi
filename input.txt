@@ -1,0 +1,75 @@
+Soğan Çorbası, soğan, Balsamik sirke, zeytinyağı, tereyağı, şeker, sarımsak, tuz, et suyu, defneyaprağı, kuru kekik, karabiber, baget ekmeği, kaşar peyniri
+
+Tahıllı Yoğurt Çorbası, buğday, börülce, yeşil mercimek, su, tuz, beyaz biber, yoğurt, un, yumurta sarısı, tereyağ, nane, kırmızı pul biber
+
+Kuru Bamya Çorbası, bamya, limon, su, zeytinyağı, dana kuşbaşı, su, soğan, tereyağ, domates salçası, sarımsak, tuz, karabiber, kırmızı pul biber
+
+Kremalı Mantar Çorbası, tereyağ, mantar, sarımsak, un, tavuk suyu, krema, tuz, karabiber, dereotu
+
+Nar Ekşili Tahıl Çorbası, soğan, sarımsak, domates salçası, biber salçası, mercimek, buğday, tavuk suyu, yaprak karalahana, kimyon, tuz, karabiber, zeytinyağı, nar ekşisi
+
+Tarhana Köfteli Çorbası, köftelik bulgur, su, tarhana, un, nane, yumurta, tuz, karabiber, kırmızı pul biber, erişte, nohut, domates salçası, biber salçası, soğan, tavuk suyu, tuz, karabiber, zetinyağı, dereotu
+
+Ayran Aşı Çorbası, nohut, buğday, yoğurt, su, nane, tuz, karabiber
+
+Sebzeli Tavuk Çorbası, tavuk suyu, tavuk göğüs, kabak, havuç, kırmızı biber, tel şehriye, tereyağı, yumurta sarısı, limon suyu, mısır nişastası, tuz, karabiber, dereotu
+
+Nohutlu Bulgur Çorbası, zeytinyağı, su, bulgur, nohut, maydanoz, dereotu, domates, domates salçası, biber salçası, tuz, karabiber
+
+Domates Çorbası, domates, sarımsak, fesleğen, zeytinyağı, tuz, karabiber, tavuk suyu, tereyağı, un
+
+Kavurmalı Patates Çorbası, patates, tereyağı, un, krema, su, tuz, karabiber, kavurma
+
+Yayla Çorbası, arpa şehriye, un, süzme yoğurt, su, tuz, karabiber, tereyağı, nane, kırmızı toz biber
+
+Hellimli Tarhana Çorbası, tarhana, su, domates salçası, tereyağı, tuz, karabiber, nane, hellim peyniri
+
+Buğday Çorbası, file badem, buğday, un, süzme yoğurt, yumurta sarısı, su, tuz, karabiber, tereyağı, nane, kırmızı pul biber
+
+Tutmaç Çorbası, nohut, erişte, yeşil mercimek, soğan, kuru nane, tuz, karabiber, zeytinyağı, su, un, yumurta sarısı, süzme yoğurt
+
+Ezogelin Çorba, kırmızı mercimek, bulgur, pirinç, soğan, sarımsak, tereyağ, su, tuz, karabiber, un, domates salçası, nane, kırmızı toz biber, kırmızı pul biber, sıvıyağ, et suyu
+
+Mantar Çorbası, kültür mantarı, un, krema, tereyağı, sarımsak, su, dereotu, tuz, karabiber
+
+Süzme Mercimek Çorbası, kırmızı mercimek, patates, soğan, un, et suyu, zeytinyağı, tuz, karabiber, tereyağı, kırmızı bul biber, ramazan pidesi
+
+Gerdan Çorbası, kuzu gerdan, et suyu, soğan, tereyağı, un, yumurta sarısı, limon suyu, tuz, karabiber
+
+Mahluta Çorbası, soğan, sarımsak, zeytinyağı, tavuk suyu, kırmızı mercimek, pirinç, toz kişniş, kimyon, limon suyu, tuz, karabiber
+
+Kış Çorbası, börülce, yeşil mercimek, nohut, erişte, soğan, sarımsak, domates salçası, biber salçası, kuru Arnavut biberi, et suyu, su, un, zetinyağı, tuz, karabiber
+
+Erişteli Yeşil Mercimek Çorbası, yeşil mercimek, erişte, nohut, soğan, sarımsak, semizotu, domates salçası, limon suyu, su, tuz, karabiber, zeytinyağı, tereyağı, kırmızı pul biber, kuru nane
+
+Köz Patlıcan Çorbası, közlenmiş patlıcan, tavuk suyu, sarımsak, toz kırmızı biber, arpacık soğan, tereyağı, tarçın, maydanoz, tuz, karabiber
+
+Lebeniye Çorbası, dana kıyma, nohut, buğday, süzme yoğurt, yumurta sarısı, un, su, tuz, zeytinyağı, soğan, kuru nane, 
+
+Kabak Çorbası, kabak, soğan, tereyağı, un, süzme yoğurt, yumurta sarısı, dereotu, su, tuz, karabiber, 
+
+Bol Bakliyatlı Soğuk Çorba, yeşil mercimek, şeker fasulye, dövme buğday, barbunya, süzme yoğurt, soğuk su, nane, tuz
+
+Peynirli Sebze Çorbası, havuç, soğan, kırmızı dolmalık biber, sarı dolmalık biber, kereviz sapı, tereyağı, zeytinyağı, un, tavuk suyu, süt, kaşar peyniri, tuz, karabiber
+
+Bademli Tavuk Çorbası, tavuk suyu, tavuk göğüs, pirinç, tereyağı, yumurta sarısı, limon suyu, mısır nişastası, badem, safran, su, tuz, karabiber
+
+Sebzeli Şehriye Çorbası, zeytinyağı, yeşil biber, kırmızı biber, havuç, su, tel şehriye, maydanoz, dereotu, nane, domates, domates salçası, kırmızı mercimek, tuz, karabiber
+
+Patates Çorbası, patates, tereyağı, un, krema, su, tuz, karabiber, pastırma
+
+Lahanalı Cevizli Tavuk Çorbası, tereyağı, zeytinyağı, soğan, ceviz içi, tavuk göğsü, lahana, un, su, maydanoz, tuz, karabiber, kırmızı pul biber
+
+Portakallı Havuç Çorbası, havuç, kereviz, kereviz sapı, patates, soğan, su, portakal, tereyağı, tuz, karabiber
+
+İrmik Çorbası, irmik, domates, zeytinyağı, domates salçası, et suyu, su, nane, tuz, karabiber, yumurta sarısı, süt
+
+Erzincan Çorbası, kıyma, domates salçası, erişte, taze fasulye, yoğurt, maydanoz, dereotu, sarımsak, kuru nane, kekik, kimyon, kırmızı pul biber, tuz, karabiber, su
+
+Buğday Çorbası, buğday, mısır, tavuk suyu, tavuk eti, tuz, karabiber, un, yoğurt, yumurta, tereyağı, nane, toz kırmızı biber
+
+Karalahana Çorbası, karalahana, soğan, barbunya, pirinç, tereyağı, zeytinyağı, biber salçası, mısır unu, kırmızı pul biber, toz kırmızı biber, tuz, karabiber, tavuk suyu
+
+Kırmızı Köz Biber Çorbası, kırmızı dolma biber, havuç, patates, soğan, sarımsak, tavuk suyu, üzüm sirkesi, tereyağı, zeytinyağı, tuz, karabiber, süzme yoğurt, kaşar peyniri, 
+
+Balkabağı Çorbası, balkabağı, soğan, tereyağı, tavuk suyu, patates, yıldız anason, krema, tuz, karabiber, muskat
