@@ -32,8 +32,9 @@ for line in f:
   q=line.split(",") 
   q2=[e.strip().lower() for e in q]
   q2=[e for e in q2 if len(e)>0]
-  all=all+q2
-  bi=bi + makebi(q2)
+  if len(q2)>1:
+   all=all+q2
+   bi=bi + makebi(q2)
 
 fdterms=nltk.FreqDist(all)
 
